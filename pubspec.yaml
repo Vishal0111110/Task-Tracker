@@ -1,0 +1,23 @@
+name: to_do
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  firebase_auth: ^4.19.0
+  firebase_core: ^2.28.0
+  google_sign_in: ^6.2.1
+  iconly: ^1.0.1
+  google_fonts: ^6.2.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
