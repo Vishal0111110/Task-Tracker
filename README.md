@@ -21,8 +21,11 @@ To run this application locally on your machine, follow these steps:
 Features
 
 Add Tasks: Easily add new tasks to your to-do list.
+
 Mark as Completed: Mark tasks as completed once you finish them.
+
 Delete Tasks: Remove tasks from the list when they're no longer needed.
+
 Save Tasks: Your tasks will persist even if you refresh the page.
 
 Usage
@@ -47,10 +50,15 @@ Contribution
 Contributions are welcome! If you want to contribute to this project, please follow these steps:
 
 1)Fork the repository.
+
 2)Create a new branch (git checkout -b feature/your-feature-name).
+
 3)Make your changes.
+
 4)Commit your changes (git commit -am 'Add some feature').
+
 5)Push to the branch (git push origin feature/your-feature-name).
+
 6)Create a new Pull Request.
 
 License
