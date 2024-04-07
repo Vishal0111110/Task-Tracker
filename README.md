@@ -1,7 +1,9 @@
 Task Tracker App
+
 Task Tracker is a simple To-Do application built using Flutter, a framework developed by Google for building natively compiled applications for mobile, web, and desktop from a single codebase.
 
 Installation
+
 To run this application locally on your machine, follow these steps:
 
 1) Clone the repository:
@@ -17,25 +19,31 @@ To run this application locally on your machine, follow these steps:
    flutter run
 
 Features
+
 Add Tasks: Easily add new tasks to your to-do list.
 Mark as Completed: Mark tasks as completed once you finish them.
 Delete Tasks: Remove tasks from the list when they're no longer needed.
 Save Tasks: Your tasks will persist even if you refresh the page.
 
 Usage
+
 Adding a Task:
+
 Type your task into the input field.
 Press Enter or click the "Add" button to add the task to your list.
 
 Completing a Task:
+
 Click the checkbox next to the task to mark it as completed.
 The task will be visually striked-through to indicate completion.
 
 Deleting a Task:
+
 Click the "delete" button next to the task you want to delete.
 The task will be removed from the list.
 
 Contribution
+
 Contributions are welcome! If you want to contribute to this project, please follow these steps:
 
 1)Fork the repository.
