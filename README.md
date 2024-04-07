@@ -32,18 +32,21 @@ Usage
 
 Adding a Task:
 
-Type your task into the input field.
-Press Enter or click the "Add" button to add the task to your list.
+1)Type your task into the input field.
+
+2)Press Enter or click the "Add" button to add the task to your list.
 
 Completing a Task:
 
-Click the checkbox next to the task to mark it as completed.
-The task will be visually striked-through to indicate completion.
+1)Click the checkbox next to the task to mark it as completed.
+
+2)The task will be visually striked-through to indicate completion.
 
 Deleting a Task:
 
-Click the "delete" button next to the task you want to delete.
-The task will be removed from the list.
+1)Click the "delete" button next to the task you want to delete.
+
+2)The task will be removed from the list.
 
 Contribution
 
